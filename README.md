@@ -89,16 +89,15 @@ CleanValet is designed as a multi-vendor marketplace where customers can discove
 
 ### Homepage
 
-<<<<<<< HEAD
-![Homepage](image/home.png)
+![Homepage](./image/home.png)
 
 ### Admin Control Panel
 
-![Admin Dashboard](image/admin-dashboard.png)
+![Admin Dashboard](./image/admin%20dashboard.png)
 
 ### Provider Management
 
-![Provider Management](image/provider-management.png)
+![Provider Management](./image/provider.png)
 
 ---
 
